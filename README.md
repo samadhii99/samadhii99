@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **E-commerce Web site**
 
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, and React Backend**
 
 - 📫 How to reach me **samadhiwijekoon31@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I love making people laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
